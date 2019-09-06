@@ -1,4 +1,4 @@
-package go_bitmap
+package bitmap
 
 import (
 	"errors"
